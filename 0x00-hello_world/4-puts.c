@@ -1,3 +1,4 @@
+#!/binbash
 #include <stdio.h>
 /**
  * main - 4-puts.c
